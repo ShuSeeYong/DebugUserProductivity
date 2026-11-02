@@ -1,0 +1,22 @@
+.NET
+bin/ 
+obj/ 
+.vs/
+
+
+Node
+node_modules/ 
+dist/
+
+VS Code
+.vscode/
+
+Publish
+publish/
+
+Logs
+*.log
+
+Secrets
+.env 
+.env.*
